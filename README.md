@@ -89,6 +89,7 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) – Free course to learn MLOps from scratch.
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/) – Covers the full lifecycle of deep learning projects.
 - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) – Companion list with tutorials and practical guides.
+- [Practical AI Security](https://academy.8ksec.io/course/practical-ai-security) - A comprehensive course on AI, ML & LLM Security.
 
 ## Related Awesome Lists
 
