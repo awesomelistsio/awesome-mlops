@@ -84,7 +84,8 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 - [Dagster](https://dagster.io/) – Build and monitor data applications and ML systems.
 - [Metaflow](https://metaflow.org/) – Human-centric workflow tool for ML.
 - [Valohai](https://valohai.com/) – MLOps platform for managing reproducible machine learning workflows from experimentation to production, with support for pipeline orchestration, tracking, and deployment.
-  
+- [KubeStellar Console](https://console.kubestellar.io) – AI-powered multi-cluster Kubernetes dashboard with real-time observability, AI-guided operations, and 20+ CNCF integrations. CNCF Sandbox project. Apache 2.0.
+
 ## Courses & Learning
 
 - [Coursera – MLOps Specialization by DeepLearning.AI](https://www.coursera.org/specializations/mlops) – Learn to build, deploy, and monitor ML systems at scale.
