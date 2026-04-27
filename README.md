@@ -46,6 +46,7 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 - [BentoML](https://github.com/bentoml/BentoML) – Framework for serving, optimizing, and deploying ML models.
 - [MLServer](https://github.com/SeldonIO/MLServer) – Fast and lightweight inference server for deploying ML models.
 - [Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) – Scalable GPU/CPU inference server by NVIDIA.
+- [ModelSpec](https://github.com/paralleliq/modelspec) – Open declarative standard for describing AI model runtime requirements, scaling targets, and governance constraints in version-controlled YAML.
 
 ## Model Monitoring
 
