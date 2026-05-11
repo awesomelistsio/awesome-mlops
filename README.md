@@ -53,6 +53,7 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 - [WhyLabs](https://whylabs.ai/) – Observability for ML models and data.
 - [Arize AI](https://arize.com/) – ML performance and drift monitoring platform.
 - [Fiddler AI](https://www.fiddler.ai/) – Explainable AI and monitoring for production ML models.
+- [agent-opt](https://github.com/future-agi/agent-opt) – Open-source library for automated optimization of AI agent workflows with evaluation-driven prompt and config tuning.
 
 ## Model Governance & Fairness
 
