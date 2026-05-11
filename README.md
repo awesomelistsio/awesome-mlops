@@ -53,6 +53,8 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 - [WhyLabs](https://whylabs.ai/) – Observability for ML models and data.
 - [Arize AI](https://arize.com/) – ML performance and drift monitoring platform.
 - [Fiddler AI](https://www.fiddler.ai/) – Explainable AI and monitoring for production ML models.
+- [traceAI](https://github.com/future-agi/traceAI) – Open-source OpenTelemetry-native tracing framework that auto-instruments 20+ AI frameworks and LLM providers, capturing prompts, tokens, latency, and errors.
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) – Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners.
 
 ## Model Governance & Fairness
 
